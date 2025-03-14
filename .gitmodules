@@ -1,0 +1,3 @@
+[submodule "Assets/CWLib"]
+	path = Assets/CWLib
+	url = https://github.com/ckd0dn/CWLib.git
